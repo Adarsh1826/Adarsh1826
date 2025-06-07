@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Adarsh Kumar Singh</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" width="150" alt="Adarsh Kumar Singh" style="border-radius: 50%;" />
-</p>
+
 
 <p align="center">
   Full Stack Developer • Cloud Enthusiast • DevOps Explorer  
